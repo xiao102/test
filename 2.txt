@@ -2,3 +2,14 @@
 1254
 hello word
 你好
+#include <stdio.h>
+int main()
+{
+	printf("hello word\n");
+
+	return 0;
+}
+这是新增的一行
+
+新增第二行
+
